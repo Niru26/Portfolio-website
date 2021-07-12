@@ -36,7 +36,7 @@ body {
     background: var(--clr-light);
     color: var(--clr-dark);
     margin: 0;
-    font-family: var(--ff-codePro);
+    font-family: var(--ff-sansPro);
     font-size: var(--fs-body);
     line-height: 1.6;
 }
@@ -46,3 +46,18 @@ img {
     max-width: 100%;
 }
 
+<<<<<<< HEAD
+=======
+/* Typography */
+
+h1,
+h2,
+h3 {
+    line-height: 1.1;
+    margin: 0;
+}
+
+h1 { font-size: var(--fs-h1);}
+h2 { font-size: var(--fs-h2);}
+h3 { font-size: var(--fs-h3);}
+>>>>>>> 9341f178c248051ce955e13b3c0e1b9e2d7cf110
